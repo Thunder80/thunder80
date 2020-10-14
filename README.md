@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayan Bhattacharya</h1>
 <h3 align="center">A Full Stack Developer eager to solve real world problems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunder80&label=Profile%20views&color=0e75b6&style=flat" alt="thunder80" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thunder80" alt="thunder80" /></a> </p>
-
 - 🔭 I’m currently working on **React projects**
 
 - 🌱 I’m currently learning **GraphQL, Machine Learning and Kubernetes**
@@ -18,12 +14,8 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/bsayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bsayan" height="30" width="40" /></a>
-<a href="https://kaggle.com/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="thunder80" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thunder80" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="thunder80" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="thunder80" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="thunder80" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="thunder80" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bhattacharya_sa1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bhattacharya_sa1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user2729t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="user2729t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
