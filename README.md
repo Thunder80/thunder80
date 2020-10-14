@@ -17,7 +17,13 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://linkedin.com/in/bsayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/bsayan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bsayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bsayan" height="30" width="40" /></a>
+<a href="https://kaggle.com/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="thunder80" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thunder80" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="thunder80" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="thunder80" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="thunder80" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/thunder80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="thunder80" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunder80&layout=compact" alt="thunder80" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thunder80&show_icons=true" alt="thunder80" /></p>
-
